@@ -1,6 +1,6 @@
 # Real Time Bus Tracker
 
-Real Time Bus Tracker uses the mapbox to create and display a map. This exercise used the map pulled from mapbox and overlayed animation to track the bus stops along its route. To add this animation the mapanimation code is used.
+Real Time Bus Tracker uses the mapbox to create and display a map. This exercise used the map pulled from mapbox and overlayed animation to track the bus stops along its route. To add this animation the mapanimation code is used. To run this exercise go to https://meschaak.github.io/Real-Time-Bus-Tracker/. You will then click the show stops button in the upper right hand corner of your screen.
 
 <img src= "Bus Tracker.png" width='300'/>
 
